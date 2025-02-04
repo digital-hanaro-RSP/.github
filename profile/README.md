@@ -6,13 +6,15 @@
 
 ## 🗂️ 목차
 
-### 1. [프로젝트 소개](#프로젝트-소개)  
-### 2. [팀 구성](#팀-구성)  
-### 3. [주요 기능 및 역할](#주요-기능-및-역할)  
-### 4. [아키텍처](#아키텍처)  
+### 1. [프로젝트 소개](#project-intro) 
+### 2. [팀 구성](#team)  
+### 3. [아키텍처](#architecture)
+### 4. [API LIST](#api)
+### 5. [ERD LIST](#erd)
+### 6. [주요 기능 및 역할](#role)  
 
 ---
-
+<a id="project-intro"></a>  
 ## 💭 프로젝트 소개
 
 은퇴 이후의 삶이 길어지면서 노후 자산관리와 인생 2막 설계의 중요성이
@@ -36,7 +38,7 @@
 - 2024년 12월 31일 ~ 2025년 02월 06일
 
 ---
-
+<a id="team"></a>  
 ## 🧑‍💻 팀 구성
 
 <table>
@@ -112,24 +114,26 @@
 </table>
 
 ---
-
+<a id="architecture"></a>  
 ## 🏘️ 아키텍처
 
 ![Backend-Architecture](https://github.com/user-attachments/assets/46460da9-a464-49bb-96f8-96a076ed449f)
 
+<a id="api"></a> 
 ## 🧱 API LIST
 
 ![API-FLOW](https://github.com/user-attachments/assets/e67797a9-7db8-4505-8890-2308f0a3657c)
 <br>
 [Swagger 자세히 보러가기](https://ggumtle.topician.com/data/swagger-ui/index.html)
 
+<a id="erd"></a> 
 ## 🗂️ ERD LIST
 
 ![image](https://github.com/user-attachments/assets/6ddabdbc-b9b9-4973-a3dc-905559636adc)
 [ERD 자세히 보러가기](https://drawsql.app/teams/seoa-1/diagrams/bucket)
 
 ---
-
+<a id="role"></a> 
 ## 🕹️ 주요 기능 및 역할
 
 ### 역할 및 기능 담당
